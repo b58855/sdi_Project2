@@ -1,3 +1,8 @@
+/*	Evan Combs
+	SDI 0213
+	Project 2
+*/
+
 var strategist = "Strategist Joe";
 var generals = ["General Sampson", "General Salvador"];
 var colonels = ["Arnold", "Brown", "Jose", "Reggie", "Liam"];
